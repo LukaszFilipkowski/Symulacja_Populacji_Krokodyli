@@ -1,4 +1,4 @@
-# Symulacja_Populacji_Krokodyli
+# Symulation_of_population
 
 Project for java lectures, in which the symulation of population of crocodiles is created.  This project is made of 1 interface Habitat and 3 classes that implements Habitat: Wetland, DriedWetland, Emblankment.
 Then we have class that creates Population and Test where we check all the project.
